@@ -31,7 +31,7 @@ func TestNewDate(t *testing.T) {
 	if date.DayInt != 9 {
 		t.Errorf("want 9, got %d", date.DayInt)
 	}
-	if date.Weekday != "nonidi" {
+	if date.Weekday != "Nonidi" {
 		t.Errorf("want \"nonidi\", got %s", date.Weekday)
 	}
 }
