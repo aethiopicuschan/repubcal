@@ -1,6 +1,7 @@
 # aethiopicuschan/repubcal
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen?style=flat-square)](/LICENSE)
+[![Go Reference](https://pkg.go.dev/badge/github.com/aethiopicuschan/repubcal.svg)](https://pkg.go.dev/github.com/aethiopicuschan/repubcal)
 
 Convert `time.Time` to Republican calendar.
 
